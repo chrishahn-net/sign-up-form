@@ -7,3 +7,11 @@
 p {
   font-weight: 700;
 }
+
+.form-pair {
+  display: flex;
+}
+
+.form-pair div {
+  flex: 1;
+}
