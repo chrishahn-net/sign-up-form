@@ -15,3 +15,7 @@ p {
 .form-pair div {
   flex: 1;
 }
+
+.form-pair label {
+  display: block;
+}
