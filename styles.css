@@ -13,6 +13,19 @@ p {
   font-weight: 700;
 }
 
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.image-section {
+  flex: 1;
+}
+
+.form-section {
+  flex: 2;
+}
+
 .form-pair {
   display: flex;
 }
