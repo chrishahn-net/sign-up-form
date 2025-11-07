@@ -20,6 +20,16 @@ p {
 
 .image-section {
   flex: 1;
+  background-image: url(/images/leaf-background.jpg);
+  background-size: cover;
+}
+
+.attribution,
+.attribution > a {
+  color: white;
+  font-size: .8rem;
+  font-weight: 100;
+  text-align: center;
 }
 
 .form-section {
