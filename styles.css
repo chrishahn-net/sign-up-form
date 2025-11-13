@@ -24,7 +24,8 @@ p {
 
 .image-section {
   flex: 1;
-  background-image: url(/images/leaf-background.jpg);
+  background-image: url(images/leaf-background.jpg);
+  background-position: center;
   background-size: cover;
 }
 
