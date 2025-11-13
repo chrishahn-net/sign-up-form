@@ -51,11 +51,11 @@ p {
 }
 
 .attribution,
-.attribution > a {
+.attribution a {
   color: white;
   font-size: .8rem;
-  font-weight: 100;
-  text-align: center;
+  font-weight: 400;
+  margin: auto 0 10px;
 }
 
 .form-section {
